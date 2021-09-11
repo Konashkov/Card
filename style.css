@@ -1,0 +1,30 @@
+.card{
+    height: 236px;
+    width: 300px;
+    background-image:url(./back.jpg);
+    padding: 12px;
+    padding-left: 200px;
+}
+.name{
+    color: white;
+    font-family: 'Glory', sans-serif;
+    margin: 0;
+}
+    
+.work{
+    display: block;
+    color: white;
+    font-family: 'Glory', sans-serif;
+    font-size: 30px;
+}
+span li{
+    margin-top: 3px;
+    display: block;
+    color: white;
+    font-family: 'Glory', sans-serif;
+    font-size: 15px;
+}
+li{
+    color: white;
+}
+
